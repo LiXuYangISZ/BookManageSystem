@@ -5,10 +5,13 @@
 
 开发工具：`Eclipse+NetBeans`，如果想要修改界面相关细节，建议使用NetBeans~ 
 
+> 项目pull下来可能会出现乱码，项目本身是UTF-8
+
 ## 项目结构
 
 - resources：存放SQL文件 和 `课程设计报告.doc`
-- 其他：项目的组成部分
+- src：项目代码
+- .project、.classpath：Eclipse项目必备配置文件
 
 ## 我的博客
 
@@ -18,6 +21,6 @@
 
 - VX：LXY18697793203
 
-<img src="../../../../../../Projects/ala-travle-website/README.assets/fef433db52194dad9c72008084c7c753.jpeg" alt="fef433db52194dad9c72008084c7c753" style="zoom:50%;" />
+<img src="https://blog-photos-lxy.oss-cn-hangzhou.aliyuncs.com/img/202212231708211.jpg" style="zoom:50%;" />
 
 - QQ：2422737092
